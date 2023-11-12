@@ -1,8 +1,0 @@
-.home{
-    height: calc(100vh - 81px);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: #cba328;
-    font-size: 30px;
-}
